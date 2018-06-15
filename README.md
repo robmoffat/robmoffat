@@ -19,14 +19,14 @@
  - [Why Pure4J?](https://github.com/robmoffat/pure4j/blob/master/docs/impetus.md)
 
 
-### [Kite9](kite9.com)
+### [Kite9](http://kite9.com)
 
 *Diagramming tool supporting automatic layout - usable and under active development*.
 
  - Some old diagrams and demos [here](http://info.kite9.com/)
  - [Github Organisation](https://github.com/kite9-org)
  
-### [Risk First](riskfirst.org)
+### [Risk First](http://riskfirst.org)
 
  - Software Methodology.
  - [Github Wiki](https://github.com/risk-first/website/wiki)
