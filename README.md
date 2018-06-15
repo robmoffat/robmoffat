@@ -1,9 +1,11 @@
 
 # Home Page of Rob Moffat
 
+## Me
 
-
-
+ - [LinkedIn](https://www.linkedin.com/in/robmoffat/)
+ - [GitHub](https://github.com/robmoffat)
+ - Emails to rob at kite9 dot com.
 
 ## My Projects
 
