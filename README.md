@@ -31,11 +31,13 @@
  - Software Methodology.
  - [Github Wiki](https://github.com/risk-first/website/wiki)
  
-### [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension-tutorial)
+### [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
 
  - Functionality for the [Concordion](http://concordion.org) documentation-driven testing framework.
  - Allows tests to be driven by Excel spreadsheets, allowing for in-line calculations.
  - Useful for testing complex calculations that can be demonstrated in spreadsheets (e.g. finance software)
+ - Tutorial [here](https://github.com/concordion/concordion-excel-extension-tutorial)
+ 
 
 
 
