@@ -7,7 +7,7 @@
  - [GitHub](https://github.com/robmoffat)
  - Emails to rob at kite9 dot com.
 
-## My Projects
+## Projects
 
 ### [Pure4j](pure4j.org)
 
@@ -38,7 +38,15 @@
  - Useful for testing complex calculations that can be demonstrated in spreadsheets (e.g. finance software)
  - Tutorial [here](https://github.com/concordion/concordion-excel-extension-tutorial)
  
+### HSBC Global Research Symphony Application
 
+*A [Symphony Chat](https://symphony.com/en-US) application used for searching, reading and sharing HSBC Research*.
+
+ - Built while as a consultant at [HSBC Global Research](https://www.gbm.hsbc.com/solutions/global-research).
+ - Uses [Apache Solr](http://lucene.apache.org/solr/) Search-Engine, searching across the corpus of HSBC published PDF research.
+ - View [the teaser video here](https://players.brightcove.net/1311491902001/default_default/index.html?videoId=5759030978001)
+ - Featured in the [Symphony App Directory](https://workflow.symphony.com/)
+ 
 
 
 
