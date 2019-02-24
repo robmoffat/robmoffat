@@ -9,6 +9,17 @@
 
 ## Projects
 
+### [Risk-First](http://riskfirst.org)
+
+ - On Software Methodology.
+ - [Github](https://github.com/risk-first)
+ - [Amazon](http://a.co/d/hmpmYl2)
+
+### [Kite9](http://kite9.com)
+
+ - Diagramming tool supporting automatic layout - usable and under active development*.
+ - [Github Organisation](https://github.com/kite9-org)
+
 ### [Pure4j](pure4j.org)
 
 *An experiment in Java purity semantics - usable but not under active development*.
@@ -18,19 +29,6 @@
  - GitHub [README](https://github.com/robmoffat/pure4j) File
  - [Why Pure4J?](https://github.com/robmoffat/pure4j/blob/master/docs/impetus.md)
 
-
-### [Kite9](http://kite9.com)
-
-*Diagramming tool supporting automatic layout - usable and under active development*.
-
- - Some old diagrams and demos [here](http://info.kite9.com/)
- - [Github Organisation](https://github.com/kite9-org)
- 
-### [Risk First](http://riskfirst.org)
-
- - Software Methodology.
- - [Github Wiki](https://github.com/risk-first/website/wiki)
- 
 ### [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
 
  - Functionality for the [Concordion](http://concordion.org) documentation-driven testing framework.
