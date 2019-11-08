@@ -1,26 +1,42 @@
+---
+title: robmoff.at
+author: bobm
+layout: default
+permalink: /
+---
 
-# Home Page of Rob Moffat
+<div class="center gap" markdown="1">
 
-## Me
+
+<img src="/assets/head.jpg" class="headshot" />
+
+# Rob Moffat is a full-stack software developer and author working in finance automation.  
+ 
+</div>
+
+## Contact
 
  - [LinkedIn](https://www.linkedin.com/in/robmoffat/)
  - [GitHub](https://github.com/robmoffat)
- - Emails to rob at kite9 dot com.
+ - Emails to rob at kite9 dot com
 
-## Projects
+# Recent Projects
 
-### [Risk-First](http://riskfirst.org)
+## [Risk-First](http://riskfirst.org)
 
- - On Software Methodology.
+*My first book: software development meets risk management.  Available to read online or to buy in paperback.*
  - [Github](https://github.com/risk-first)
  - [Amazon](http://a.co/d/hmpmYl2)
 
-### [Kite9](http://kite9.com)
+## [Kite9](http://kite9.com)
+
+*Automating the pain out of Visio _et al._*
 
  - Diagramming tool supporting automatic layout - usable and under active development*.
+ - Currently in use building all the diagrams for Risk-First.
  - [Github Organisation](https://github.com/kite9-org)
 
-### [Pure4j](pure4j.org)
+## [Pure4j](pure4j.org)
 
 *An experiment in Java purity semantics - usable but not under active development*.
 
@@ -29,14 +45,14 @@
  - GitHub [README](https://github.com/robmoffat/pure4j) File
  - [Why Pure4J?](https://github.com/robmoffat/pure4j/blob/master/docs/impetus.md)
 
-### [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
+## [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
 
  - Functionality for the [Concordion](http://concordion.org) documentation-driven testing framework.
  - Allows tests to be driven by Excel spreadsheets, allowing for in-line calculations.
  - Useful for testing complex calculations that can be demonstrated in spreadsheets (e.g. finance software)
  - Tutorial [here](https://github.com/concordion/concordion-excel-extension-tutorial)
  
-### HSBC Global Research Symphony Application
+## HSBC Global Research Symphony Application
 
 *A [Symphony Chat](https://symphony.com/en-US) application used for searching, reading and sharing HSBC Research*.
 
@@ -45,27 +61,14 @@
  - View [the teaser video here](https://players.brightcove.net/1311491902001/default_default/index.html?videoId=5759030978001)
  - Featured in the [Symphony App Directory](https://workflow.symphony.com/)
  
-### [Symphony Java / Spring Starters](https://github.com/deutschebank/symphony-java-client-parent)
+## [Symphony Java / Spring Starters](https://github.com/deutschebank/symphony-java-client-parent)
 
-*Build Symphony Apps and Bots with Java and Spring boot* 
+*Build Symphony Apps and Bots with Java and Spring Boot* 
 
-This project is a set of libraries aimed at facilitating creating Bots and Apps for the [Symphony Chat Platform](https://symphony.com) using Java and [Spring Boot](https://spring.io/projects/spring-boot).
+ - A suite of tools built at Deutsche Bank, and open-sourced for the benefit of other Symphony developers.
+ - [GitHub Project](https://github.com/deutschebank/symphony-java-client-parent)
 
-This project contains the following:
-
-- Symphony Java Client Bindings
-- Symphony Java Client Identity
-- Symphony API Spring-Boot Starter
-- Symphony App Spring-Boot Starter
-- Demo App 
-- Demo Bot
-- Tutorials for getting started
-
-### [symphony-consultancy.com](https://symphony-consultancy.com)
+## [symphony-consultancy.com](https://symphony-consultancy.com)
 
 - I provide [Symphony](https://symphony.com) Consultancy.
-
-
-
-
 

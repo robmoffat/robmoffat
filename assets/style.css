@@ -1,0 +1,124 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+main {
+	background: white;
+	margin: 6em 0 4em 0;
+	color: #333;
+	font-size: 1em;
+	font-weight: 300;
+	line-height: 1.5;
+	width: 100%;
+	max-width: 700px;
+	margin: auto;
+	text-align: left;
+}
+
+nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	display: block;
+	width: 100%;
+	z-index: 9999;
+	background: #333;
+	text-size: 1.25em;
+	padding: 1em 0 1em 0;
+	margin-bottom: 60px;
+	text-align: center;
+}
+
+nav .left {
+	font-weight: 700;
+	color: white;
+}
+
+p, ul {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+b {
+	color: #333;
+}
+
+a {
+	color: #999;
+}
+
+a:active {
+	outline: none;
+}
+
+ul {
+	padding-left: 3em;
+}
+
+ul li {
+	padding-bottom: 0.5em;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 2em;
+	line-height: 1.25;
+}
+
+h2 {
+	font-weight: 600;
+	font-size: 1em;
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+
+article {
+	width: 100%;
+	max-width: 700px;
+	margin: auto;
+	text-align: left;
+}
+
+article a {
+	border-bottom: 1px dotted #ccc;
+}
+
+article a:hover {
+	color: #333
+}
+
+blockquote {
+	font-style: italic;
+	text-align: center;
+	margin: 0 0 2em 0;
+	font-size: 0.8em;
+}
+
+img.headshot {
+	width: 200px;
+	border-radius: 100px;
+}
+
+div.center {
+	text-align: center;	
+}
+
+div.gap {
+	margin-top: 120px;
+}
+
+footer {
+	text-align: center;
+	font-size: .75em;
+}
+
+@media only screen and (max-width:550px) {
+	html {
+		font-size: 14px;
+	}
+	nav {
+		padding: 0.5em 0.25em 0.5em 0.25em;
+	}
+}

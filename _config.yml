@@ -1,1 +1,13 @@
-theme: jekyll-theme-slate
+name: "robmoff.at"
+title: "Rob Moffat's Home Page"
+description: "Home of Risk-First Software Development" 
+
+# Markup
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
