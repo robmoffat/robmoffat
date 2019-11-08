@@ -52,7 +52,7 @@ permalink: /
  - Useful for testing complex calculations that can be demonstrated in spreadsheets (e.g. finance software)
  - Tutorial [here](https://github.com/concordion/concordion-excel-extension-tutorial)
  
-## HSBC Global Research Symphony Application
+## [HSBC Global Research Symphony Application](https://players.brightcove.net/1311491902001/default_default/index.html?videoId=575903097800)
 
 *A [Symphony Chat](https://symphony.com/en-US) application used for searching, reading and sharing HSBC Research*.
 
