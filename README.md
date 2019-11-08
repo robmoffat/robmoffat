@@ -61,9 +61,9 @@ This project contains the following:
 - Demo Bot
 - Tutorials for getting started
 
-### [SymphonyConsultancy.com](https://symphony-consultancy.com)
+### [symphony-consultancy.com](https://symphony-consultancy.com)
 
-- Advertisement for Symphony Consultancy.
+- I provide [Symphony](https://symphony.com) Consultancy.
 
 
 
