@@ -1,7 +1,7 @@
 ---
 id: 217
 title: Thoughts on Information
-date: 2015-10-09T11:09:14+00:00
+date: 2015-10-09
 author: bobm
 layout: post
 guid: http://robmoff.at/2015/10/09/thoughts-on-information/

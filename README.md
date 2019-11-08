@@ -45,8 +45,25 @@
  - View [the teaser video here](https://players.brightcove.net/1311491902001/default_default/index.html?videoId=5759030978001)
  - Featured in the [Symphony App Directory](https://workflow.symphony.com/)
  
+### [Symphony Java / Spring Starters](https://github.com/deutschebank/symphony-java-client-parent)
 
+*Build Symphony Apps and Bots with Java and Spring boot* 
 
+This project is a set of libraries aimed at facilitating creating Bots and Apps for the [Symphony Chat Platform](https://symphony.com) using Java and [Spring Boot](https://spring.io/projects/spring-boot).
+
+This project contains the following:
+
+- Symphony Java Client Bindings
+- Symphony Java Client Identity
+- Symphony API Spring-Boot Starter
+- Symphony App Spring-Boot Starter
+- Demo App 
+- Demo Bot
+- Tutorials for getting started
+
+### [SymphonyConsultancy.com](https://symphony-consultancy.com)
+
+- Advertisement for Symphony Consultancy.
 
 
 
