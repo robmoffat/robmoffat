@@ -25,6 +25,7 @@ permalink: /
 ## [Risk-First](http://riskfirst.org)
 
 *My first book: software development meets risk management.  Available to read online or to buy in paperback.*
+ - [Read Online](https://riskfirst.org)
  - [Github](https://github.com/risk-first)
  - [Amazon](http://a.co/d/hmpmYl2)
 
