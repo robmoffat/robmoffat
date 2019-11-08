@@ -30,7 +30,7 @@ permalink: /
 
 ## [Kite9](http://kite9.com)
 
-*Automating the pain out of Visio _et al._*
+*Automating the pain out of Visio et al.*
 
  - Diagramming tool supporting automatic layout - usable and under active development*.
  - Currently in use building all the diagrams for Risk-First.
