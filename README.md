@@ -25,7 +25,7 @@
  - Currently in use building all the diagrams for Risk-First.
  - [Github Organisation](https://github.com/kite9-org)
 
-## ChatBot Consultancy
+## Chat Bot Consultancy
 
 - I build bots on [Symphony](https://symphony.com), [Twitter](https://twitter.com) and [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams).  
  - You can hire me as a consultant, and I'll take you through my portfolio!
