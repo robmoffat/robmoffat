@@ -22,6 +22,14 @@ permalink: /
 
 # Recent Projects
 
+## [Spring Bot](https://springbot.finos.org)
+
+*Build Symphony & Microsoft Teams Bots with Java and Spring Boot* 
+
+ - Allows rapid construction of workflow bots which are equally at home running on Microsoft Teams or Symphony.
+ - A suite of tools built at Deutsche Bank, and open-sourced and donated to FINOS (The Financial Open Source Software Foundation)
+ - [GitHub Project](https://github.com/finos/spring-bot)
+
 ## [Risk-First](http://riskfirst.org)
 
 *My first book: software development meets risk management.  Available to read online or to buy in paperback.*
@@ -61,15 +69,8 @@ permalink: /
  - Uses [Apache Solr](http://lucene.apache.org/solr/) Search-Engine, searching across the corpus of HSBC published PDF research.
  - View [the teaser video here](https://players.brightcove.net/1311491902001/default_default/index.html?videoId=5759030978001)
  - Featured in the [Symphony App Directory](https://workflow.symphony.com/)
- 
-## [Symphony Java / Spring Starters](https://github.com/deutschebank/symphony-java-client-parent)
 
-*Build Symphony Apps and Bots with Java and Spring Boot* 
-
- - A suite of tools built at Deutsche Bank, and open-sourced for the benefit of other Symphony developers.
- - [GitHub Project](https://github.com/deutschebank/symphony-java-client-parent)
-
-## [symphony-consultancy.com](https://symphony-consultancy.com)
+## Symphony Consultancy
 
 - I provide [Symphony](https://symphony.com) Consultancy.
 
