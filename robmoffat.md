@@ -12,6 +12,7 @@
 ## [Risk-First](http://riskfirst.org)
 
 *My first book: software development meets risk management.  Available to read online or to buy in paperback.*
+
  - [Read Online](https://riskfirst.org)
  - [Github](https://github.com/risk-first)
  - [Amazon](http://a.co/d/hmpmYl2)
@@ -24,9 +25,11 @@
  - Currently in use building all the diagrams for Risk-First.
  - [Github Organisation](https://github.com/kite9-org)
 
-## Symphony Consultancy
+## ChatBot Consultancy
 
-- I provide [Symphony](https://symphony.com) Consultancy.
+- I build bots on [Symphony](https://symphony.com), [Twitter](https://twitter.com) and [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams).  
+ - You can hire me as a consultant, and I'll take you through my portfolio!
+
 
 For a longer list, please see my website [robmoff.at](https://robmoff.at).
 
