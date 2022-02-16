@@ -30,6 +30,7 @@
 - I build bots on [Symphony](https://symphony.com), [Twitter](https://twitter.com) and [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams).  
  - You can hire me as a consultant, and I'll take you through my portfolio!
 
+# Historic Projects
 
-For a longer list, please see my website [robmoff.at](https://robmoff.at).
+Please see my website [robmoff.at](https://robmoff.at).
 

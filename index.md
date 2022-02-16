@@ -70,7 +70,7 @@ permalink: /
  - View [the teaser video here](https://players.brightcove.net/1311491902001/default_default/index.html?videoId=5759030978001)
  - Featured in the [Symphony App Directory](https://workflow.symphony.com/)
 
-## ChatBot Consultancy
+## Chat Bot Consultancy
 
 - I build bots on [Symphony](https://symphony.com), [Twitter](https://twitter.com) and [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams).  
  - You can hire me as a consultant, and I'll take you through my portfolio!
