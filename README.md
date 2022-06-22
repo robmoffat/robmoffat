@@ -43,3 +43,8 @@ Email me at drench_medical.0q@icloud.com if you're interested in a sign-up.
 
 Please see my website [robmoff.at](https://robmoff.at).
 
+# Stats!
+
+[![robmoffat's GitHub stats](https://github-readme-stats.vercel.app/api?username=robmoffat&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
