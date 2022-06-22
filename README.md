@@ -1,6 +1,13 @@
 
 # Current Projects
 
+## Ask me about the Open-Source in Finance Forum
+
+London July 13th 2022 
+
+👉https://bit.ly/3mnEWUE
+
+
 ## [Spring Bot](https://springbot.finos.org)
 
 *Build Symphony & Microsoft Teams Bots with Java and Spring Boot* 
