@@ -1,15 +1,6 @@
 
 # Current Projects
 
-## Ask me about the Open-Source in Finance Forum
-
-London July 13th 2022 
-
-👉https://bit.ly/3mnEWUE
-
-Email me at drench_medical.0q@icloud.com if you're interested in a sign-up.
-
-
 ## [Spring Bot](https://springbot.finos.org)
 
 *Build Symphony & Microsoft Teams Bots with Java and Spring Boot* 
