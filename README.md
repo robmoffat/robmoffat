@@ -34,6 +34,10 @@
 
 Please see my website [robmoff.at](https://robmoff.at).
 
+# LinkedIn
+
+I'm at https://www.linkedin.com/in/robmoffat/
+
 # Stats!
 
 [![robmoffat's GitHub stats](https://github-readme-stats.vercel.app/api?username=robmoffat&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
