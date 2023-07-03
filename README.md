@@ -1,6 +1,14 @@
 
 # Current Projects
 
+## [FINOS](https://finos.org)
+
+*I work on open source projects for FINOS, the FinTech Open Source Software Foundation as a technical architect.*
+
+- [Open Source Readiness](https://github.com/finos/open-source-readiness)
+- [FDC3](https://github.com/finos/FDC3)
+- [FDC3 Conformance Framework](https://github.com/finos/FDC3-conformance-framework)
+
 ## [Spring Bot](https://springbot.finos.org)
 
 *Build Symphony & Microsoft Teams Bots with Java and Spring Boot* 
