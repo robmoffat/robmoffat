@@ -10,7 +10,7 @@ permalink: /
 
 <img src="/assets/head.jpg" class="headshot" />
 
-# Rob Moffat is a full-stack software developer and author working in finance automation.  
+# Rob Moffat is an open source enthusiast, full-stack software developer and author working in finance.  
  
 </div>
 
@@ -21,6 +21,22 @@ permalink: /
  - Emails to rob at kite9 dot com
 
 # Recent Projects
+
+## [Open Source Readiness](https://osr.finos.org)
+
+*Charting the golden path to open source contribution in the finance industry.*
+
+- I work with the Open Source Readiness (OSR) Special Interest Group (SIG) to produce materials to help financial firms cooperate on open source.
+- As the FINOS technical architect I work to keep the SIG on track, author materials and convene events such as roundtables to drive out best practice.
+- [GitHub Project](https://github.com/finos/open-source-readiness)
+
+## [FDC3 - Financial Desktop Interoperability Open Standard](https://fdc3.finos.org)
+
+*A popular interoperability standard for applications written by financial firms and ISVs*
+
+- I am the FINOS point-of-contact for all things FDC3.
+- Lately, we're building out **Desktop Agent Bridging**, **FDC3 On The Web** and starting **FDC3 Identity**
+- [GitHub Project](https://github.com/finos/FDC3)
 
 ## [Spring Bot](https://springbot.finos.org)
 
