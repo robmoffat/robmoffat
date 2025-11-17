@@ -81,7 +81,7 @@ permalink: /
  - Currently in use building all the diagrams for Risk-First.
  - [Github Organisation](https://github.com/kite9-org)
 
-## [Pure4j](pure4j.org)
+## Pure4j
 
 *An experiment in Java purity semantics - usable but not under active development*.
 
