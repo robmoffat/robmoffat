@@ -52,11 +52,12 @@ permalink: /
 *A popular interoperability standard for applications written by financial firms and ISVs*
 
 - I am the FINOS point-of-contact for all things FDC3.
-- Lately, we're building out **Desktop Agent Bridging**, **FDC3 On The Web** and starting **FDC3 Identity**
+- Lately, we're building out [FDC3 Identity](https://www.finos.org/osff-nyc-2025-videos?hsCtaAttrib=198690470740#connectivetissue:~:text=Cross%2DFirm%20Interoperability%20with%20Secure%20FDC3)
 - [GitHub Project](https://github.com/finos/FDC3)
 - [LFEL 1000 - Introduction to FDC3](https://training.linuxfoundation.org/express-learning/introduction-to-fdc3-lfel1000/)
 - [LFD237 - Developing Solutions with FDC3](https://training.linuxfoundation.org/training/developing-solutions-with-fdc3-lfd237/)
 - [FCFP - FDC3 Certified Practitioner Exam](https://training.linuxfoundation.org/certification/finos-certified-fdc3-practitioner/)
+- [I rewrote FDC3 Sail to work on the web](https://sail.fdc3.finos.org) [code here](https://github.com/finos/FDC3-Sail)
 
 ## [Spring Bot](https://springbot.finos.org)
 
