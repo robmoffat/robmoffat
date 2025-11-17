@@ -22,6 +22,20 @@ permalink: /
 
 # Recent Projects
 
+## [Common Cloud Controls](https://ccc.finos.org)
+
+*Setting standards for cloud controls for the financial services industry*
+
+- I work with cloud architects in the Common Cloud Controls (CCC) project to build control standards, implementations and validators for the cloud.
+- [Here's a website showing our progress](https://ccc.finos.org)
+- [GitHub Project](https://github.com/finos/common-cloud-controls
+
+## The Brain Diet
+
+*A frenetic week of activity turning Paul Houston's paper on ADHD diets into a browseable website*
+
+- [The Brain Diet](https://thebraindiet.org)
+
 ## [Open Source Readiness](https://osr.finos.org)
 
 *Charting the golden path to open source contribution in the finance industry.*
@@ -29,6 +43,8 @@ permalink: /
 - I work with the Open Source Readiness (OSR) Special Interest Group (SIG) to produce materials to help financial firms cooperate on open source.
 - As the FINOS technical architect I work to keep the SIG on track, author materials and convene events such as roundtables to drive out best practice.
 - [GitHub Project](https://github.com/finos/open-source-readiness)
+- [FSOSD - Financial Services Open Source Developer Exam](https://training.linuxfoundation.org/certification/finos-open-source-developer-fsosd/)
+- [This training for Open Source Developers](https://training.linuxfoundation.org/training/open-source-contribution-in-finance-lfd137/)
 
 ## [FDC3 - Financial Desktop Interoperability Open Standard](https://fdc3.finos.org)
 
@@ -37,6 +53,9 @@ permalink: /
 - I am the FINOS point-of-contact for all things FDC3.
 - Lately, we're building out **Desktop Agent Bridging**, **FDC3 On The Web** and starting **FDC3 Identity**
 - [GitHub Project](https://github.com/finos/FDC3)
+- [LFEL 1000 - Introduction to FDC3](https://training.linuxfoundation.org/express-learning/introduction-to-fdc3-lfel1000/)
+- [LFD237 - Developing Solutions with FDC3](https://training.linuxfoundation.org/training/developing-solutions-with-fdc3-lfd237/)
+- [FCFP - FDC3 Certified Practitioner Exam](https://training.linuxfoundation.org/certification/finos-certified-fdc3-practitioner/)
 
 ## [Spring Bot](https://springbot.finos.org)
 
