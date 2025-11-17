@@ -28,13 +28,14 @@ permalink: /
 
 - I work with cloud architects in the Common Cloud Controls (CCC) project to build control standards, implementations and validators for the cloud.
 - [Here's a website showing our progress](https://ccc.finos.org)
-- [GitHub Project](https://github.com/finos/common-cloud-controls
+- [GitHub Project](https://github.com/finos/common-cloud-controls)
 
-## The Brain Diet
+## [The Brain Diet](https://thebraindiet.org)
 
 *A frenetic week of activity turning Paul Houston's paper on ADHD diets into a browseable website*
 
 - [The Brain Diet](https://thebraindiet.org)
+- [GitHub Page](https://github.com/the-brain-diet/food-science)
 
 ## [Open Source Readiness](https://osr.finos.org)
 
