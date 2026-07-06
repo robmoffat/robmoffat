@@ -1,12 +1,13 @@
+Chief Architect at [FINOS](https://finos.org) — open standards, developer platforms, and hands-on engineering in financial services. Author of *[Risk-First Software Development](https://riskfirst.org)*.
+
+[robmoff.at](https://robmoff.at) · [LinkedIn](https://www.linkedin.com/in/robmoffat/)
+
 # Current Projects
 
 ## [FINOS](https://finos.org)
 
-*I work on open source projects for FINOS, the FinTech Open Source Software Foundation as chief technical architect.*
+*Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation.  I've been Chief Architect since 2025.*
 
-- [Open Source Readiness](https://github.com/finos/open-source-readiness)
-- [FDC3](https://github.com/finos/FDC3)
-- [FDC3 Conformance Framework](https://github.com/finos/FDC3-conformance-framework)
 - [Catalog of FINOS Projects](https://github.com/finos)
 
 ## [Common Cloud Controls](https://ccc.finos.org)
@@ -14,8 +15,9 @@
 *Setting standards for cloud controls for the financial services industry*
 
 - I work with cloud architects in the Common Cloud Controls (CCC) project to build control standards, implementations and validators for the cloud.
-- [Here's a website showing our progress](https://ccc.finos.org)
+- [ccc.finos.org](https://ccc.finos.org) — progress site and control catalog
 - [GitHub Project](https://github.com/finos/common-cloud-controls)
+- Talk: [Scaling Cloud Governance with FINOS CCC](https://www.youtube.com/watch?v=NHvf31wJ2Ig) — OSFF London 2026
 
 ## [The Brain Diet](https://thebraindiet.org)
 
@@ -29,52 +31,79 @@
 *Charting the golden path to open source contribution in the finance industry.*
 
 - I work with the Open Source Readiness (OSR) Special Interest Group (SIG) to produce materials to help financial firms cooperate on open source.
-- As the FINOS technical architect I work to keep the SIG on track, author materials and convene events such as roundtables to drive out best practice.
+- As FINOS technical architect I keep the SIG on track, author materials and convene events such as roundtables to drive out best practice.
 - [GitHub Project](https://github.com/finos/open-source-readiness)
-- [FSOSD - Financial Services Open Source Developer Exam](https://training.linuxfoundation.org/certification/finos-open-source-developer-fsosd/)
-- [This training for Open Source Developers](https://training.linuxfoundation.org/training/open-source-contribution-in-finance-lfd137/)
+- [FSOSD — Financial Services Open Source Developer Exam](https://training.linuxfoundation.org/certification/finos-open-source-developer-fsosd/)
+- [LFD137 — Open Source Contribution in Finance](https://training.linuxfoundation.org/training/open-source-contribution-in-finance-lfd137/)
+- Talk: [Unlocking Open Source Contribution in Finance](https://www.youtube.com/watch?v=7CZrDFnDcas) — State of Open Con 2024
+- Panel: [Scaling Open Source Readiness in Financial Institutions](https://www.youtube.com/watch?v=CI8DED5Luag) — OSFF New York 2025
 
 ## [FDC3 - Financial Desktop Interoperability Open Standard](https://fdc3.finos.org)
 
-*A popular interoperability standard for applications written by financial firms and ISVs*
+*A widely adopted interoperability standard for applications written by financial firms and ISVs*
 
 - I am the FINOS point-of-contact for all things FDC3.
-- Lately, we're building out [FDC3 Identity](https://www.finos.org/osff-nyc-2025-videos?hsCtaAttrib=198690470740#connectivetissue:~:text=Cross%2DFirm%20Interoperability%20with%20Secure%20FDC3)
-- [GitHub Project](https://github.com/finos/FDC3)
-- [LFEL 1000 - Introduction to FDC3](https://training.linuxfoundation.org/express-learning/introduction-to-fdc3-lfel1000/)
-- [LFD237 - Developing Solutions with FDC3](https://training.linuxfoundation.org/training/developing-solutions-with-fdc3-lfd237/)
-- [FCFP - FDC3 Certified Practitioner Exam](https://training.linuxfoundation.org/certification/finos-certified-fdc3-practitioner/)
-- [I rewrote FDC3 Sail to work on the web](https://sail.fdc3.finos.org) [code here](https://github.com/finos/FDC3-Sail)
+- The [main repository](https://github.com/finos/FDC3) has 250+ stars, 170+ forks, and active releases through 2026.
+- [GitHub Project](https://github.com/finos/FDC3) · [fdc3-java-api](https://github.com/finos/fdc3-java-api)
+- [LFEL 1000 — Introduction to FDC3](https://training.linuxfoundation.org/express-learning/introduction-to-fdc3-lfel1000/)
+- [LFD237 — Developing Solutions with FDC3](https://training.linuxfoundation.org/training/developing-solutions-with-fdc3-lfd237/)
+- [FCFP — FDC3 Certified Practitioner Exam](https://training.linuxfoundation.org/certification/finos-certified-fdc3-practitioner/)
+- [FDC3 Sail on the web](https://sail.fdc3.finos.org) — [code](https://github.com/finos/FDC3-Sail)
+- Talk: [Bringing FDC3 to Web Browsers](https://www.youtube.com/watch?v=QPiL6B1zg8A) — OSFF London 2024
+- Workshop: [FDC3 Developer Training](https://www.youtube.com/watch?v=9uUKTk2e-Xs) — OSFF New York 2024
 
 ## [Spring Bot](https://springbot.finos.org)
 
-*Build Symphony & Microsoft Teams Bots with Java and Spring Boot* 
+*Build Symphony & Microsoft Teams bots with Java and Spring Boot*
 
- - Allows rapid construction of workflow bots which are equally at home running on Microsoft Teams or Symphony.
- - A suite of tools built at Deutsche Bank, and open-sourced and donated to FINOS (The Financial Open Source Software Foundation)
- - [GitHub Project](https://github.com/finos/spring-bot)
+- Rapid construction of workflow bots equally at home on Microsoft Teams or Symphony.
+- Built at Deutsche Bank, open-sourced and donated to FINOS in 2021.
+- [GitHub Project](https://github.com/finos/spring-bot) — 75+ stars, 36 releases, active maintenance.
+- Talk: [Bots, Chat Ops, COVID & the Symphony Java Toolkit](https://www.youtube.com/watch?v=Rla2QCHDQ84) — Open Source Strategy Forum 2020
 
 ## [Risk-First](http://riskfirst.org)
 
-*My first book: software development meets risk management.  Available to read online or to buy in paperback.*
- - [Read Online](https://riskfirst.org)
- - [Github](https://github.com/risk-first)
- - [Amazon](http://a.co/d/hmpmYl2)
+*Software development meets risk management — read online or buy in paperback. Second edition published by the Pragmatic Bookshelf.*
+
+- [Get a free digital version / buy the print copy](https://riskfirst.org/Risk-First-Second-Edition)
+- [Read Online](https://riskfirst.org) — [GitHub](https://github.com/risk-first) (750+ stars on the site repo)
+- [Amazon](http://a.co/d/hmpmYl2)
+- Interview: [JUXTCast S6E4 — All Work Is Risk Management](https://www.youtube.com/watch?v=xu3_l_8YYSM)
+- Interview: [SE Radio 721 — Risk-First Software Development](https://www.youtube.com/watch?v=gXHjc3G08rY)
 
 ## [Kite9](http://kite9.com)
 
 *Automating the pain out of Visio et al.*
 
- - Diagramming tool supporting automatic layout - usable and under active development*.
- - Currently in use building all the diagrams for Risk-First.
- - [Github Organisation](https://github.com/kite9-org)
+- Diagramming tool with automatic layout — Kotlin, Java, TypeScript.
+- In daily use for all the diagrams in Risk-First.
+- [GitHub Organisation](https://github.com/kite9-org)
 
-# Historic Projects
+## [Standard Cucumber Steps](https://github.com/robmoffat/standard-cucumber-steps)
 
-Please see my website [robmoff.at](https://robmoff.at).
+*Reusable Cucumber step definitions across Java, TypeScript, Go, and C#*
 
-# LinkedIn
+- Shared generic steps for property-based BDD — published to npm, Maven Central, and pkg.go.dev.
+- Used in FINOS projects including [fdc3-java-api](https://github.com/finos/fdc3-java-api) conformance testing.
+- [GitHub Project](https://github.com/robmoffat/standard-cucumber-steps)
 
-I'm at https://www.linkedin.com/in/robmoffat/
+## [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
 
+*Excel-driven tests for the Concordion documentation framework*
 
+- Drive Concordion specs from spreadsheets — useful for complex financial calculations.
+- Long-running open source project; [tutorial here](https://github.com/concordion/concordion-excel-extension-tutorial).
+
+# Speaking
+
+Selected conference talks, workshops, and panels. More on [riskfirst.org/community](https://riskfirst.org/community/).
+
+| Session | Event | Watch |
+|---|---|---|
+| Risk-First Software Development (closing keynote) | XT25, Jun 2025 | [YouTube](https://www.youtube.com/watch?v=R7V1I-l0rrg) |
+| Open Standards and the Connective Tissue of Financial Services | OSFF London, Jun 2025 | [YouTube](https://www.youtube.com/watch?v=YscC8k1XzSU) |
+| Unlocking Open Source Contribution in Finance | State of Open Con, Feb 2024 | [YouTube](https://www.youtube.com/watch?v=7CZrDFnDcas) |
+| FDC3 Developer Training Workshop | OSFF New York, Oct 2024 | [YouTube](https://www.youtube.com/watch?v=9uUKTk2e-Xs) |
+| Bringing FDC3 to Web Browsers | OSFF London, Jun 2024 | [YouTube](https://www.youtube.com/watch?v=QPiL6B1zg8A) |
+| Scaling Open Source Readiness in Financial Institutions | OSFF New York, Oct 2025 | [YouTube](https://www.youtube.com/watch?v=CI8DED5Luag) |
+| Bots, Chat Ops, COVID & the Symphony Java Toolkit | OSSF 2020 | [YouTube](https://www.youtube.com/watch?v=Rla2QCHDQ84) |
