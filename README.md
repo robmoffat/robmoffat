@@ -6,23 +6,17 @@ Chief Architect at FINOS — open standards, developer platforms, and hands-on e
 
 ## [FINOS](https://finos.org)
 
-*Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation.  I've been Chief Architect since 2025.*
-
+*Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation.  
 - [Catalog of FINOS Projects](https://github.com/finos)
+- [My automated catalog generator (steal for your own org!)](https://github.com/finos-labs/project-analysis)
 
 ## [Common Cloud Controls](https://ccc.finos.org)
 
-*Setting standards for cloud controls for the financial services industry*
+*Setting standards for cloud controls across the financial services industry*
 
 - I work with cloud architects in the Common Cloud Controls (CCC) project to build control standards, implementations and validators for the cloud.
 - [GitHub Project](https://github.com/finos/common-cloud-controls)
 - Talk: [Scaling Cloud Governance with FINOS CCC](https://www.youtube.com/watch?v=NHvf31wJ2Ig) — OSFF London 2026
-
-## [The Brain Diet](https://thebraindiet.org)
-
-*A frenetic week of activity turning Paul Houston's paper on ADHD diets into a browseable website*
-
-- [GitHub Page](https://github.com/the-brain-diet/food-science)
 
 ## [Open Source Readiness](https://osr.finos.org)
 
@@ -76,6 +70,13 @@ Chief Architect at FINOS — open standards, developer platforms, and hands-on e
 
 - Shared generic steps for property-based BDD — published to npm, Maven Central, and pkg.go.dev.
 - Used in FINOS projects including FDC3, CCC and the FDC3 Java Api.
+
+
+## [The Brain Diet](https://thebraindiet.org)
+
+*A frenetic week of activity turning Paul Houston's paper on ADHD diets into a browseable website*
+
+- [GitHub Page](https://github.com/the-brain-diet/food-science)
 
 ## [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
 
