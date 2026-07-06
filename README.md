@@ -6,7 +6,7 @@ Chief Architect at FINOS — open standards, developer platforms, and hands-on e
 
 ## [FINOS](https://finos.org)
 
-*Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation.  
+Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation.  
 - [Catalog of FINOS Projects](https://github.com/finos)
 - [My automated catalog generator (steal for your own org!)](https://github.com/finos-labs/project-analysis)
 
