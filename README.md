@@ -6,7 +6,7 @@ Chief Architect at FINOS — open standards, developer platforms, and hands-on e
 
 ## [FINOS](https://finos.org)
 
-*Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation.*
+*Open source projects for FINOS, the FinTech Open Source Software Foundation, part of the Linux Foundation*
 - [Catalog of FINOS Projects](https://github.com/finos)
 - [My automated catalog generator (steal for your own org!)](https://github.com/finos-labs/project-analysis)
 
@@ -46,6 +46,7 @@ Chief Architect at FINOS — open standards, developer platforms, and hands-on e
 - Rapid construction of workflow bots equally at home on Microsoft Teams or Symphony.
 - Built at Deutsche Bank, open-sourced and donated to FINOS in 2021.
 - [GitHub Project](https://github.com/finos/spring-bot) — 75+ stars, 36 releases, active maintenance.
+- [Deutsche Bank Case Study](https://www.finos.org/deutsche-bank-spring-bot-case-study)
 
 ## [Risk-First](http://riskfirst.org)
 
