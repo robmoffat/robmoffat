@@ -72,12 +72,21 @@ Chief Architect at FINOS — open standards, developer platforms, and hands-on e
 - Shared generic steps for property-based BDD — published to npm, Maven Central, and pkg.go.dev.
 - Used in FINOS projects including FDC3, CCC and the FDC3 Java Api.
 
-
 ## [The Brain Diet](https://thebraindiet.org)
 
 *A frenetic week of activity turning Paul Houston's paper on ADHD diets into a browseable website*
 
 - [GitHub Page](https://github.com/the-brain-diet/food-science)
+
+# Old Projects
+
+## [Pure4J](https://github.com/robmoffat/pure4j)
+
+*An experiment in Java purity semantics — usable but not under active development.*
+
+- Compile-time purity and immutability semantics for Java.
+- Persistent collections a la Clojure.
+- [Why Pure4J?](https://github.com/robmoffat/pure4j/blob/master/docs/impetus.md)
 
 ## [Concordion Excel Extension](https://github.com/concordion/concordion-excel-extension)
 
